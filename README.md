@@ -12,3 +12,5 @@ Save your article for read next time
      * URL - the url to the original article
 
      * Feel free to add more content to your database (photos, bylines, and so on).
+
+# Screenshot

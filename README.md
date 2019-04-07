@@ -1,7 +1,7 @@
 # FitToScrape
 
-This project, user can click a scraping button, it will save or new article from xxx 
-Save your article for read next time
+Welcome to a Fit to Scrape application. This project will help users get many update article to read. A user also can save or delete the article that they like. 
+
 
 ## How to use this app
  

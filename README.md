@@ -1,6 +1,6 @@
 # FitToScrape
 
-Welcome to a Fit to Scrape application. This project will help users get many update article to read. A user also can save or delete the article that they like on their own profile. 
+Welcome to a Fit to Scrape application. This project will help users to get many update article to read. A user also can save or delete the article that they like on their own profile. They and many popular article to read such as CNN, CNBC, New York Times, etc.
 
 
 ## How to use this app
